@@ -8,6 +8,6 @@
 - Less used word
 - No. of characters used
  
-**NOTARY** in an online exercise my CoderFoundry
+**NOTARY** is an online exercise my CoderFoundry
   - link: https://youtu.be/KEvLAe_2jXo
   - GitHub: https://github.com/CoderFoundry/Notary
