@@ -1,13 +1,7 @@
-# Notary
-**A Coding Project for HTML, CSS, and JavaScript**
+# HTML CSS Javascript Website - Responsive JS Project with Smooth Scroll
 
-**The purpose of this project is to enhace my Frontend Skills.**
+Just random exercise I found in the internet.
 
-**NOTARY** scan the whole document and show the ff:
-- The most used word
-- Less used word
-- No. of characters used
- 
-**NOTARY** is an online exercise my CoderFoundry
-  - link: https://youtu.be/KEvLAe_2jXo
-  - GitHub: https://github.com/CoderFoundry/Notary
+The goal for this exercise is familiarized my self in Frontend development.
+
+link: https://www.youtube.com/watch?v=3-2Pj5hxwrw
