@@ -2,6 +2,6 @@
 
 Just random exercise I found in the internet.
 
-The goal for this exercise is to enhance my skills in Frontend development.
+The goal for this exercise is to refresh the things i learned in webdevelopment.
 
 link: https://www.youtube.com/watch?v=3-2Pj5hxwrw
